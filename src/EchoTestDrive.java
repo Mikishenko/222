@@ -4,6 +4,7 @@ class Echo {
         System.out.println("Привеееееет.....");
     }
 }
+
 public class EchoTestDrive {
     public static void main(String[] args) {
         Echo e1 = new Echo();
